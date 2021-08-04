@@ -13,7 +13,8 @@ import { StarComponent } from './stars/star-component';
     StarComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
