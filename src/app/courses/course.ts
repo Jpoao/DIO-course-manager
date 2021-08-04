@@ -8,5 +8,5 @@ export class Course {
 	duration!: number;
 	rating!: number;
 	releaseDate!: string;
-	options!: string;
+	description!: string;
 }
