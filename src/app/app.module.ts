@@ -10,6 +10,7 @@ import { NavBarComponent } from 'src/core/nav-bar/nav-bar.component';
 import { RouterLink, RouterModule } from '@angular/router';
 import { Error404 } from 'src/core/error404/error404.component';
 import { CourseInfoComponent } from './courses/course-info.component';
+import { NgClass } from '@angular/common';
 
 @NgModule({
   declarations: [
